@@ -16,8 +16,10 @@ Makes it easier to update and expand software as needed.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
-1.development of programming languages
+1.development of programming languages.
+
 2.establishment of software engineering field
+
 3. advanced structured programming 
 
 List and briefly explain the phases of the Software Development Life Cycle.
